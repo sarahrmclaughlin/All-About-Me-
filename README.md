@@ -1,6 +1,6 @@
 # All-About-Me-
 
-#### 👋 Hello! Salut🇫🇷! Ciao🇮🇹! I am Sarah, not to be confused with the (**AMAZING**) chanteuse.
+#### 👋 Hello! Salut🇫🇷! Ciao🇮🇹! I am Sarah McLaughlin, not to be confused with the (**AMAZING**) chanteuse.
 - I consider myself a collector of languages; from utilising Copilot in VScode for code optimisation to learning how to say "please" and "thank you" in 10+ languages or practicing French and Italian daily.
 - :woman_technologist: At work, I am an Analytics Engineer for Data Science, which means I translate business problems into data models that can be used by data scientists. With a background in statistics, I understand the needs and what data will be meaningful.
 - 🗺 In my free time, I like to travel and have been to 18 different countries. I love to learn, which means I have also been to more museums than I can even remember.
