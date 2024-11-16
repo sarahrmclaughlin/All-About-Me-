@@ -8,8 +8,11 @@
 - Volunteerism is extremely important to me. When I was younger, I spent a lot of time volunteering at the Buffalo Zoo. It taught me to be comfortable with public speaking and tailoring my conversations to different audiences. I bring a lot of this experience to my work as well. 
 - 📰 During the pandemic, I volunteered with The Covid Tracking Project at the Atlantic and was even published in an article for my contributions! 
 
-- I love to chat about a variety of topics: Data, pop culture, the weather.
-- My current obsessions are: 1. All things ```MLFlow``` + Evidently AI, 2. Buying books to build up my home library (My latest purchase was 'The Neopolitan Novels'.) Reach out :)
+- I love to chat about a variety of topics (data, pop culture, the weather) and my current obsessions are:
+- 1. All things ```mlflow``` + Evidently AI
+- 2. Buying books to build up my home library. (My latest purchase was 'The Neopolitan Novels'.)
+    
+#### *Reach out!* :)
 
 - :mailbox:This is me: [![Linkedin Badge](https://img.shields.io/badge/-sarahrmclaughlin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-r-mclaughlin/)
 
