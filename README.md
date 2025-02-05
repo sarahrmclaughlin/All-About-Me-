@@ -17,3 +17,9 @@
 - :mailbox:This is me: [![Linkedin Badge](https://img.shields.io/badge/-sarahrmclaughlin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-r-mclaughlin/)
 
 
+- **I frequently make updates to my** [Helpful Code Repo](https://github.com/sarahrmclaughlin/helpful_code/tree/main/).
+
+
+
+
+
